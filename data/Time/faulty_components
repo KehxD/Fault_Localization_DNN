@@ -1,0 +1,36 @@
+1 2
+org/joda/time/Partial#190
+org/joda/time/field/UnsupportedDurationField#227
+
+3 9
+org/joda/time/MutableDateTime#636
+org/joda/time/MutableDateTime#660
+org/joda/time/MutableDateTime#681
+org/joda/time/MutableDateTime#702
+org/joda/time/MutableDateTime#723
+org/joda/time/MutableDateTime#764
+org/joda/time/MutableDateTime#785
+org/joda/time/MutableDateTime#816
+org/joda/time/MutableDateTime#880
+
+5 1
+org/joda/time/Period#1617
+
+9 2
+org/joda/time/DateTimeZone#255
+org/joda/time/DateTimeZone#283
+
+18 1
+org/joda/time/chrono/GJChronology#356
+
+21 1
+org/joda/time/tz/DefaultNameProvider#53
+
+23 1
+org/joda/time/DateTimeZone#559
+
+10 1
+org/joda/time/base/BaseSingleFieldPeriod#89
+
+16 1
+org/joda/time/format/DateTimeFormatter#698

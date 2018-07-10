@@ -1,0 +1,14 @@
+Test,Pass-Fail,Runtime(ns)
+org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testBug1572478Horizontal,PASS,470780237
+org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testBug1572478Vertical,PASS,174355658
+org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testDrawWithNullInfo,PASS,343305029
+org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testGetLegendItem,PASS,193155702
+org.jfree.chart.renderer.category.junit.BoxAndWhiskerRendererTests#testGetLegendItemSeriesIndex,PASS,140777063
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#test1701822,PASS,156461954
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testAdd,PASS,107555552
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testAddUpdatesCachedRange,PASS,161803753
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testCloning,PASS,137185954
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testConstructor,PASS,127253512
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testEquals,PASS,205206217
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testGetRangeBounds,FAIL,196502426
+org.jfree.data.statistics.junit.DefaultBoxAndWhiskerCategoryDatasetTests#testSerialization,PASS,152972330

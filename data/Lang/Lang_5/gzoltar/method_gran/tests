@@ -1,0 +1,14 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.lang3.LocaleUtilsTest#testAvailableLocaleList,PASS,76585598
+org.apache.commons.lang3.LocaleUtilsTest#testAvailableLocaleSet,PASS,171234680
+org.apache.commons.lang3.LocaleUtilsTest#testConstructor,PASS,72809638
+org.apache.commons.lang3.LocaleUtilsTest#testCountriesByLanguage,PASS,84468681
+org.apache.commons.lang3.LocaleUtilsTest#testIsAvailableLocale,PASS,73590327
+org.apache.commons.lang3.LocaleUtilsTest#testLang328,PASS,75415431
+org.apache.commons.lang3.LocaleUtilsTest#testLang865,FAIL,63695979
+org.apache.commons.lang3.LocaleUtilsTest#testLanguagesByCountry,PASS,111997370
+org.apache.commons.lang3.LocaleUtilsTest#testLocaleLookupList_Locale,PASS,60755557
+org.apache.commons.lang3.LocaleUtilsTest#testLocaleLookupList_LocaleLocale,PASS,75899365
+org.apache.commons.lang3.LocaleUtilsTest#testToLocale_1Part,PASS,74657896
+org.apache.commons.lang3.LocaleUtilsTest#testToLocale_2Part,PASS,60030165
+org.apache.commons.lang3.LocaleUtilsTest#testToLocale_3Part,PASS,90587947

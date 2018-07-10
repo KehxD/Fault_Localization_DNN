@@ -1,0 +1,6 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.math.util.MultidimensionalCounterTest#testAccessors,PASS,1273625144
+org.apache.commons.math.util.MultidimensionalCounterTest#testIterationConsistency,FAIL,1774652480
+org.apache.commons.math.util.MultidimensionalCounterTest#testIteratorPreconditions,PASS,518569390
+org.apache.commons.math.util.MultidimensionalCounterTest#testMulti2UniConversion,PASS,1540033222
+org.apache.commons.math.util.MultidimensionalCounterTest#testPreconditions,PASS,1314486324

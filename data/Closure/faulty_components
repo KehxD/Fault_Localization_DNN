@@ -1,0 +1,50 @@
+3 2
+com/google/javascript/jscomp/FlowSensitiveInlineVariables#127
+com.google.javascript.jscomp.FlowSensitiveInlineVariables$Candidate#282
+
+16 3
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode#173
+com.google.javascript.jscomp.ScopedAliases$AliasedTypeNode#180
+com/google/javascript/jscomp/ScopedAliases$Traversal#458
+
+26 2
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback#208
+com.google.javascript.jscomp.ProcessCommonJSModules$ProcessCommonJsModulesCallback#221
+
+27 2
+com/google/javascript/rhino/IR#224
+com/google/javascript/rhino/IR#231
+
+37 2
+com/google/javascript/jscomp/NodeTraversal#511
+com.google.javascript.jscomp.parsing.IRFactory$TransformDispatcher#611
+
+43 1
+com.google.javascript.jscomp.TypedScopeCreator$AbstractScopeBuilder#499
+
+47 2
+com/google/javascript/jscomp/SourceMap#121
+com/google/debugging/sourcemap/SourceMapConsumerV3#483
+
+49 3
+com/google/javascript/jscomp/MakeDeclaredNamesUnique#77
+com/google/javascript/jscomp/MakeDeclaredNamesUnique#116
+com/google/javascript/jscomp/MakeDeclaredNamesUnique#157
+
+72 2
+com/google/javascript/jscomp/FunctionToBlockMutator#143
+com.google.javascript.jscomp.RenameLabels$ProcessLabels#210
+
+76 2
+com/google/javascript/jscomp/DeadAssignmentsElimination#292
+com/google/javascript/jscomp/DeadAssignmentsElimination#341
+
+103 2
+com.google.javascript.jscomp.DisambiguateProperties$JSTypeSystem#737
+com.google.javascript.jscomp.ControlFlowAnalysis#885
+
+108 3
+com.google.javascript.jscomp.ScopedAliases$Traversal#310
+com.google.javascript.jscomp.ScopedAliases$Traversal#358
+com.google.javascript.jscomp.ScopedAliases$Traversal#524
+

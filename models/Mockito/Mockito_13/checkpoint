@@ -1,0 +1,2 @@
+model_checkpoint_path: "save_network_0"
+all_model_checkpoint_paths: "save_network_0"

@@ -1,0 +1,13 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.math.distribution.PoissonDistributionTest#testCumulativeProbabilities,PASS,1465310555
+org.apache.commons.math.distribution.PoissonDistributionTest#testCumulativeProbabilitySpecial,PASS,1523963632
+org.apache.commons.math.distribution.PoissonDistributionTest#testDegenerateInverseCumulativeProbability,PASS,1439643274
+org.apache.commons.math.distribution.PoissonDistributionTest#testDensities,PASS,1583097580
+org.apache.commons.math.distribution.PoissonDistributionTest#testFloatingPointArguments,PASS,1402399084
+org.apache.commons.math.distribution.PoissonDistributionTest#testIllegalArguments,PASS,1448120468
+org.apache.commons.math.distribution.PoissonDistributionTest#testInverseCumulativeProbabilities,PASS,1491588800
+org.apache.commons.math.distribution.PoissonDistributionTest#testLargeMeanCumulativeProbability,PASS,1630242117
+org.apache.commons.math.distribution.PoissonDistributionTest#testLargeMeanInverseCumulativeProbability,PASS,1925171617
+org.apache.commons.math.distribution.PoissonDistributionTest#testMean,FAIL,1612033744
+org.apache.commons.math.distribution.PoissonDistributionTest#testNormalApproximateProbability,PASS,1674976733
+org.apache.commons.math.distribution.PoissonDistributionTest#testSampling,PASS,1459458205

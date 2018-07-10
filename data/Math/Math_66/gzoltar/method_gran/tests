@@ -1,0 +1,11 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest#testQuinticMin,FAIL,96960690
+org.apache.commons.math.optimization.MultiStartUnivariateRealOptimizerTest#testSinMin,FAIL,84582829
+org.apache.commons.math.optimization.general.PowellOptimizerTest#testMaximizeQuadratic,PASS,46492891
+org.apache.commons.math.optimization.general.PowellOptimizerTest#testQuadratic,PASS,72603086
+org.apache.commons.math.optimization.general.PowellOptimizerTest#testSumSinc,PASS,72172217
+org.apache.commons.math.optimization.univariate.BrentOptimizerTest#testMinEndpoints,PASS,37724913
+org.apache.commons.math.optimization.univariate.BrentOptimizerTest#testQuinticMax,PASS,46420253
+org.apache.commons.math.optimization.univariate.BrentOptimizerTest#testQuinticMin,PASS,31857475
+org.apache.commons.math.optimization.univariate.BrentOptimizerTest#testQuinticMinStatistics,FAIL,324334452
+org.apache.commons.math.optimization.univariate.BrentOptimizerTest#testSinMin,FAIL,96269897

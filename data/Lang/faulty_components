@@ -1,0 +1,42 @@
+5 1
+org/apache/commons/lang3/LocaleUtils#89
+
+23 0
+
+30 5
+org/apache/commons/lang3/StringUtils#1372
+org/apache/commons/lang3/StringUtils#1444
+org/apache/commons/lang3/StringUtils#1498
+org/apache/commons/lang3/StringUtils#1570
+org/apache/commons/lang3/StringUtils#1674
+
+32 4
+org/apache/commons/lang3/builder/HashCodeBuilder#104
+org/apache/commons/lang3/builder/HashCodeBuilder#173
+org/apache/commons/lang3/builder/HashCodeBuilder#522
+org/apache/commons/lang3/builder/HashCodeBuilder#538
+
+36 2
+org/apache/commons/lang3/math/NumberUtils#449
+org/apache/commons/lang3/math/NumberUtils#1313
+
+41 2
+org/apache/commons/lang/ClassUtils#184
+org/apache/commons/lang/ClassUtils#245
+
+63 2
+org/apache/commons/lang/time/DurationFormatUtils#265
+org/apache/commons/lang/time/DurationFormatUtils#433
+
+65 1
+org/apache/commons/lang/time/DateUtils#620
+
+8 2
+org/apache/commons/lang3/time/FastDatePrinter$TimeZoneNameRule#1109
+org/apache/commons/lang3/time/FastDatePrinter$TimeZoneNameRule#1134
+
+11 1
+org/apache/commons/lang3/RandomStringUtils#225
+
+54 1
+org/apache/commons/lang/LocaleUtils#95

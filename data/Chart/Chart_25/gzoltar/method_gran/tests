@@ -1,0 +1,10 @@
+Test,Pass-Fail,Runtime(ns)
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testCloning,PASS,374301313
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullDeviationHorizontal,FAIL,1930351388
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullDeviationVertical,FAIL,489679689
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullInfo,PASS,1059547813
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullMeanHorizontal,FAIL,1482000612
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testDrawWithNullMeanVertical,FAIL,1999337307
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testEquals,PASS,416465546
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testHashcode,PASS,394105792
+org.jfree.chart.renderer.category.junit.StatisticalBarRendererTests#testSerialization,PASS,616570115

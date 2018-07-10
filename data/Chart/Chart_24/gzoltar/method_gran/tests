@@ -1,0 +1,11 @@
+Test,Pass-Fail,Runtime(ns)
+org.jfree.chart.renderer.junit.GrayPaintScaleTests#testCloning,PASS,35146565
+org.jfree.chart.renderer.junit.GrayPaintScaleTests#testConstructor,PASS,65293363
+org.jfree.chart.renderer.junit.GrayPaintScaleTests#testEquals,PASS,72741640
+org.jfree.chart.renderer.junit.GrayPaintScaleTests#testGetPaint,FAIL,58501029
+org.jfree.chart.renderer.junit.GrayPaintScaleTests#testSerialization,PASS,55055603
+org.jfree.chart.renderer.xy.junit.XYBlockRendererTests#testEquals,PASS,51017963
+org.jfree.chart.title.junit.PaintScaleLegendTests#testCloning,PASS,61343454
+org.jfree.chart.title.junit.PaintScaleLegendTests#testEquals,PASS,153580965
+org.jfree.chart.title.junit.PaintScaleLegendTests#testHashcode,PASS,76702373
+org.jfree.chart.title.junit.PaintScaleLegendTests#testSerialization,PASS,113816494

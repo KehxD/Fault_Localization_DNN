@@ -1,0 +1,25 @@
+2 2
+org/jfree/data/general/DatasetUtilities#742
+org/jfree/data/general/DatasetUtilities#1231
+
+14 4
+org/jfree/chart/plot/CategoryPlot#2158
+org/jfree/chart/plot/XYPlot#2285
+org/jfree/chart/plot/CategoryPlot#2436
+org/jfree/chart/plot/XYPlot#2517
+
+21 2
+org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset#147
+org/jfree/data/statistics/DefaultBoxAndWhiskerCategoryDataset#740
+
+25 2
+org/jfree/chart/renderer/category/StatisticalBarRenderer#240
+org/jfree/chart/renderer/category/StatisticalBarRenderer#383
+
+24 1
+org/jfree/chart/renderer/GrayPaintScale#124
+
+16 2
+org/jfree/data/category/DefaultIntervalCategoryDataset#145
+org/jfree/data/category/DefaultIntervalCategoryDataset#335
+

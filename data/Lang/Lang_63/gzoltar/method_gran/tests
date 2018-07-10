@@ -1,0 +1,13 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.lang.time.DurationFormatUtilsTest#testConstructor,PASS,44223859
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatDuration,PASS,104451625
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatDurationHMS,PASS,92742671
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatDurationISO,PASS,18662692
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatDurationPluralWords,PASS,149481389
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatDurationWords,PASS,170577762
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatPeriod,PASS,146464873
+org.apache.commons.lang.time.DurationFormatUtilsTest#testFormatPeriodISO,PASS,38870229
+org.apache.commons.lang.time.DurationFormatUtilsTest#testJiraLang281,FAIL,177963349
+org.apache.commons.lang.time.DurationFormatUtilsTest#testLexx,PASS,114195747
+org.apache.commons.lang.time.StopWatchTest#testStopWatchSimpleGet,PASS,633582264
+org.apache.commons.lang.time.StopWatchTest#testStopWatchSplit,PASS,1730472668

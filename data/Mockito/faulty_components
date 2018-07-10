@@ -1,0 +1,153 @@
+1 1
+org/mockito/internal/invocation/InvocationMatcher#121
+
+2 1
+org/mockito/internal/util/Timer#7
+
+3 1
+org/mockito/internal/invocation/InvocationMatcher#119
+
+4 3
+org/mockito/exceptions/Reporter#418
+org/mockito/exceptions/Reporter#431
+org/mockito/exceptions/Reporter#677
+
+5 1
+org.mockito.internal.verification.VerificationOverTimeImpl#76
+
+6 20
+org/mockito/Matchers#122
+org/mockito/Matchers#137
+org/mockito/Matchers#152
+org/mockito/Matchers#167
+org/mockito/Matchers#182
+org/mockito/Matchers#197
+org/mockito/Matchers#212
+org/mockito/Matchers#227
+org/mockito/Matchers#244
+org/mockito/Matchers#292
+org/mockito/Matchers#309
+org/mockito/Matchers#324
+org/mockito/Matchers#339
+org/mockito/Matchers#358
+org/mockito/Matchers#373
+org/mockito/Matchers#392
+org/mockito/Matchers#407
+org/mockito/Matchers#427
+org/mockito/Matchers#442
+org/mockito/Matchers#461
+
+7 1
+org.mockito.internal.util.reflection.GenericMetadataSupport$TypeVariableReturnType#376
+
+8 1
+org/mockito/internal/util/reflection/GenericMetadataSupport#67
+
+9 1
+org/mockito/internal/stubbing/answers/CallsRealMethods#36
+
+10 3
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#59
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#88
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#95
+
+11 2
+org/mockito/internal/creation/DelegatingMethod#55
+org/mockito/internal/creation/DelegatingMethod#60
+
+12 1
+org/mockito/internal/util/reflection/GenericMaster#17
+
+13 1
+org/mockito/internal/MockHandler#59
+
+14 2
+org/mockito/internal/MockHandler#58
+org/mockito/internal/MockitoCore#68
+
+15 1
+org/mockito/internal/configuration/injection/FinalMockCandidateFilter#19
+
+16 3
+org/mockito/internal/MockitoCore#34
+org/mockito/Mockito#827
+org/mockito/Mockito#897
+
+17 3
+org/mockito/internal/creation/MockSettingsImpl#22
+org/mockito/internal/util/MockUtil#34
+org/mockito/internal/creation/MockSettingsImpl#74
+
+18 1
+org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues#83
+
+19 4
+org/mockito/internal/configuration/injection/filter/TypeBasedCandidateFilter#21
+org/mockito/internal/configuration/injection/filter/FinalMockCandidateFilter#24
+org/mockito/internal/configuration/injection/filter/NameBasedCandidateFilter#24
+org/mockito/internal/configuration/injection/PropertyAndSetterInjection#112
+
+20 1
+org/mockito/internal/creation/bytebuddy/ByteBuddyMockMaker#25
+
+21 2
+org/mockito/internal/creation/instance/ConstructorInstantiator#14
+org/mockito/internal/creation/instance/ConstructorInstantiator#24
+
+22 1
+org/mockito/internal/matchers/Equality#13
+
+23 3
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#48
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#94
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#114
+
+24 1
+org/mockito/internal/stubbing/defaultanswers/ReturnsEmptyValues#64
+
+25 3
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#45
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#57
+org/mockito/internal/stubbing/defaultanswers/ReturnsDeepStubs#82
+
+26 0
+
+27 1
+org/mockito/internal/util/MockUtil#63
+
+28 1
+org/mockito/internal/configuration/DefaultInjectionEngine#92
+
+29 1
+org/mockito/internal/matchers/Same#27
+
+30 2
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowingInterceptor#52
+org/mockito/exceptions/Reporter#439
+
+31 1
+org.mockito.internal.stubbing.defaultanswers.ReturnsSmartNulls$ThrowingInterceptor#60
+
+32 1
+org/mockito/internal/configuration/SpyAnnotationEngine#29
+
+33 1
+org/mockito/internal/invocation/InvocationMatcher#95
+
+34 1
+org/mockito/internal/invocation/InvocationMatcher#104
+
+35 3
+org/mockito/Matchers#362
+org/mockito/Matchers#479
+org/mockito/Matchers#516
+
+36 1
+org/mockito/internal/invocation/Invocation#202
+
+37 1
+org/mockito/internal/stubbing/answers/AnswersValidator#16
+
+38 1
+org/mockito/internal/verification/argumentmatching/ArgumentMatchingTool#48
+

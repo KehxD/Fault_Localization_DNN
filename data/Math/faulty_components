@@ -1,0 +1,52 @@
+6 7
+org/apache/commons/math3/optim/BaseOptimizer#47
+org/apache/commons/math3/optim/nonlinear/vector/jacobian/GaussNewtonOptimizer#81
+org/apache/commons/math3/optim/nonlinear/scalar/noderiv/SimplexOptimizer#128
+org/apache/commons/math3/optim/nonlinear/scalar/noderiv/PowellOptimizer#174
+org/apache/commons/math3/optim/nonlinear/scalar/gradient/NonLinearConjugateGradientOptimizer#193
+org/apache/commons/math3/optim/nonlinear/vector/jacobian/LevenbergMarquardtOptimizer#285
+org/apache/commons/math3/optim/nonlinear/scalar/noderiv/CMAESOptimizer#370
+
+8 1
+org/apache/commons/math3/distribution/DiscreteDistribution#182
+
+16 2
+org/apache/commons/math3/util/FastMath#384
+org/apache/commons/math3/util/FastMath#444
+
+38 1
+org/apache/commons/math/optimization/direct/BOBYQAOptimizer#1584
+
+51 1
+org/apache/commons/math/analysis/solvers/BaseSecantSolver#130
+
+64 1
+org/apache/commons/math/optimization/general/LevenbergMarquardtOptimizer#245
+
+66 4
+org/apache/commons/math/optimization/univariate/BrentOptimizer#43
+org/apache/commons/math/optimization/univariate/BrentOptimizer#57
+org/apache/commons/math/optimization/univariate/BrentOptimizer#60
+org/apache/commons/math/optimization/univariate/BrentOptimizer#66
+org/apache/commons/math/optimization/univariate/BrentOptimizer#99
+
+71 2
+org/apache/commons/math/ode/nonstiff/RungeKuttaIntegrator#100
+org/apache/commons/math/ode/nonstiff/EmbeddedRungeKuttaIntegrator#197
+
+92 1
+org/apache/commons/math/util/MathUtils#170
+
+97 1
+org/apache/commons/math/analysis/BrentSolver#128
+
+61 1
+org/apache/commons/math/distribution/PoissonDistributionImpl#80
+
+56 1
+org/apache/commons/math/util/MultidimensionalCounter#217
+
+1 2
+org/apache/commons/math3/fraction/Fraction#180
+org/apache/commons/math3/fraction/BigFraction#271
+

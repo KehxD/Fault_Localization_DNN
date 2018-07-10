@@ -1,0 +1,7 @@
+Test,Pass-Fail,Runtime(ns)
+org.apache.commons.lang3.RandomStringUtilsTest#testConstructor,PASS,58018341
+org.apache.commons.lang3.RandomStringUtilsTest#testExceptions,PASS,49407463
+org.apache.commons.lang3.RandomStringUtilsTest#testLANG805,PASS,65014440
+org.apache.commons.lang3.RandomStringUtilsTest#testLANG807,FAIL,68523239
+org.apache.commons.lang3.RandomStringUtilsTest#testLang100,PASS,105208168
+org.apache.commons.lang3.RandomStringUtilsTest#testRandomStringUtils,PASS,80433208
