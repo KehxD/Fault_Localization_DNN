@@ -20,19 +20,3 @@ jupyter notebook User\_Version\_Fault\_Localization.ipynb
 ## Software
 
 the data was originally obtained by using gzoltar <http://www.gzoltar.com/> on the defects4j dataset <https://github.com/rjust/defects4j>. The faults can be inspected in <https://github.com/Spirals-Team/defects4j-presentation-urls>. Other than that, no external software was used. (except obivous things such as: python, jupyter, anaconda)
-
-## Libraries used
-
-The following is simply copied from my code documentation:
-
-| **Import Name** | **Usage** |
-|:-|:-|:-|
-| **Path.pathlib** | Saving, loading and checking paths |
-| **random** | Generating random numbers |
-| **numpy** | Math package |
-| **pandas** | Used for csv file reading |
-| **operator** | easy sorting by second dimension |
-| **copy** | Used to copy lists |
-| **sklearn** | used for agglomerative clustering and silhouette metric |
-| **tensorflow** | DNN framework |
-| **matplotlib** | Visualization |
